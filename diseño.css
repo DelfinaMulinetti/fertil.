@@ -529,13 +529,189 @@ a {
     position: absolute;
     top: 301vh;
     left: 105vh;}
-
-
 }
 
+@media (max-width: 1080px) {
+    body {
+        overflow-x: hidden;
+    }
 
+    .fertil {
+     position: absolute;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-image: url(./CSS/studio.png);
+        background-size: 1800px;
+        border-image: round;
+        border-radius: 10%;
+        width: 75vh;
+        height: 410vh;
+        bottom: 17vh;
+        top: 10vh;
+        padding: 5%;
+        left: -12vh;}
+        
+.navuno {
+    display: inline;
+    position: relative;
+    left: 1cm; }
 
+.navdos {
+    display: inline;
+    position: relative;
 
+    left: 1.5cm; }
 
+.navtres {
+    display: inline;
+     position: relative;;
+     left: 2cm;
+    top: 0vh; }
+
+.navcuatro {
+    display: inline;
+    position: relative;
+    top: -0vh;
+    left: 2.5cm;
+    }
+
+a {
+    font-size: 2vh;}
+
+    h1 {
+        color: darkgoldenrod;
+         position: absolute;
+        font-display: initial;
+        font-size: 1.3vh;
+        top: 40vh;
+        left: 8vh;
+        font-family: 'Roboto', sans-serif;}
+        
+    h2 {
+         color: white;
+        position: absolute;
+        font-display: initial;
+        font-size: 1.3vh;
+        top: 45vh;
+        left: 10vh;
+        font-family: 'Roboto', sans-serif;}
+        
+    h3 { color: white;
+            position: absolute;
+        font-display: initial;
+        font-size: 1.3vh;
+        top: 50vh;
+        left: 13vh;
+        font-family: 'Roboto', sans-serif;}
+
+     img {
+        width: 40vh;
+     }
+       
+        
+    .ML {
+        position: absolute;
+        width: 200vh;
+        top: 70vh; left: 7.5vh;  }
+    .MC {
+        position: absolute;
+        top: 100vh; 
+        left: 7.5vh;}
+    .NM {
+         position: absolute;
+         top: 130vh; 
+         left: 7.5vh;
+         margin: 0cm}
+
+    .SAF {   position: absolute;
+             top: 160vh; 
+             left: 7.5vh;
+             margin: 0cm }
+
+    .SAP {  position: absolute;
+             top: 190vh; 
+             left: 7.5vh;
+             margin: 0cm;}
+
+     .Texto {
+             position: absolute;
+             top: 170vh;
+             width: 40vh;
+             left: 1vh;}
+                
+    .cineclub {
+        width: 25cm;
+         position: absolute;
+         font-size: 4vh;
+         top: 205vh; 
+         left: 5vh;
+         margin: 0cm;}
+
+.iniciarsesionb {
+    position: absolute;  
+    top: 260vh;
+    left: 9vh; }
+
+.username {
+    position: absolute;
+    top: 60vh;
+    left: 10vh;
+    border: 0%;
+    margin: 0%;  display: inline;  }
     
+.usernametexto {
+    position: absolute;
+    top: 220vh;
+    left: 15vh; 
+    padding: 0%; margin: 0%;}
 
+.contratexto {
+    position: absolute;   
+    top: 62vh;
+    left: 10vh; }
+
+.Boton01 {
+    position: absolute;
+    top: 64vh;
+    left: 12.5vh;  }
+
+.registrarseb {
+    position: absolute;
+    top: 75vh;
+    left: -6vh; }
+
+
+.nombre {
+
+    position: absolute;
+    width: 2vh; height: 2vh;
+    top: 93vh;
+    left: 3vh; }
+
+.Apellido {
+    position: absolute;
+    top: 95vh;
+    left: 3vh; }
+
+.edad {
+    position: absolute;
+    top: 97vh;
+    left: 3vh;}
+
+.email {
+    position: absolute;
+    top: 93vh;
+    left: 18vh; }
+
+.contra02 {
+    position: absolute;
+    top: 95vh;
+    left: 18vh;}
+
+.boton02 {
+    position: absolute;
+    top: 97vh;
+    left: 18vh;}
+}
+    
+   
